@@ -1,1 +1,1 @@
-Prototype for a recipe website based on personal favorites.  
+Prototype for a recipe blog website based on personal favorites.  
